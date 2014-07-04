@@ -1,0 +1,1 @@
+/home/rapidfire3/.bashrc
