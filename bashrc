@@ -1,1 +1,1 @@
-/home/rapidfire3/.bashrc
+/home/munkav/bashrc
